@@ -1,0 +1,6 @@
+source "C:/Users/engfl/esp/v5.1.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/engfl/esp/v5.1.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/engfl/esp/v5.1.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/engfl/esp/v5.1.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/engfl/esp/v5.1.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/engfl/Documents/PROJETOS-FW/Trabalhando/MLX90632/MLX90632_DRIVER_OLD/I2C_MLX90632/main/Kconfig.projbuild"
